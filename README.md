@@ -2,6 +2,10 @@
   <a href="https://discord.com/users/1324240903673614428">
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
+  
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="40" height="1">
+  
+  <img src="assets/mirai-nikki-yuno.gif" height="200" />
 </div>
 
 <br><br><br>

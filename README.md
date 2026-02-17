@@ -5,7 +5,7 @@
   
   <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="40" height="1">
   
-  <img src="assets/mirai-nikki-yuno.gif" height="200" />
+  <img src="assets/yuno-gasai.gif" height="200" />
 </div>
 
 <br><br><br>

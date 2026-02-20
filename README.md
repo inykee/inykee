@@ -3,7 +3,7 @@
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
 
-  <img src="assets/yuno-gasai.png" height="230" />
+  <img src="assets/yuno-gasai.png" height="200" />
 </div>
 
 <br><br><br>

@@ -8,11 +8,16 @@
 
 <br><br><br>
 
-<h1>Hello World!</h1>
+<h1>Hi, I'm Eric</h1>
 
 <p>
-  My name is Eric, I'm 19 years old and I've been studying programming for a year.<br />
-  I'm a certified systems programmer and web developer. Feel free to follow my progress!
+Back-end developer focused on Java and Spring Boot,  
+building REST APIs and desktop applications with clean structure and maintainable code.
+
+Interested in system design, database modeling,  
+and creating scalable solutions to real-world problems.
+
+Always learning and building.
 </p>
 
 <br>

@@ -2,6 +2,8 @@
   <a href="https://discord.com/users/1324240903673614428">
     <img src="https://lanyard.kyrie25.dev/api/1324240903673614428" />
   </a>
+
+  <img src="assets/yuno-gasai.png" height="230" />
 </div>
 
 <br><br><br>
